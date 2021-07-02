@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\bin\Debug\TourDuLich.exe.config
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\bin\Debug\TourDuLich.exe
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\bin\Debug\TourDuLich.pdb
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.Properties.Resources.resources
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.exe
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.pdb
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\bin\Debug\TourDuLich.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.exe
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.pdb
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\bin\Debug\TourDuLich.exe
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\bin\Debug\TourDuLich.pdb
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.Tour.resources
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.KhachHang.resources
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.NhanVien.resources
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\NoSQL\TourDuLich\obj\Debug\TourDuLich.frm_HienThi.resources
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.frm_HienThi.resources
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.NhanVien.resources
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.Tour.resources
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.KhachHang.resources
+C:\Users\Admin\Desktop\NoSQL\TourDuLich\obj\Debug\TourDuLich.SuaTour.resources
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\TourDuLich\bin\Debug\TourDuLich.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\TourDuLich\obj\Debug\TourDuLich.exe
+C:\Users\Admin\Documents\Zalo Received Files\HQTCSDL NoSQL\TourDuLich\obj\Debug\TourDuLich.pdb

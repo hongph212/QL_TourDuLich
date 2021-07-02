@@ -1,0 +1,1548 @@
+﻿{
+  "_id" : ObjectId("6073fc96631a6f736ef912d6"),
+  "MATOUR" : "SG-HN",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Quảng trường Ba Đình – Lăng Bác"
+    }, {
+      "DIEMDEN" : "Hồ Gươm"
+    }, {
+      "DIEMDEN" : "Phố cổ Hà Nội"
+    }, {
+      "DIEMDEN" : "Văn Miếu – Quốc Tử Giám"
+    }, {
+      "DIEMDEN" : "Nhà thờ lớn Hà Nội"
+    }],
+  "GIA" : 10000000.0,
+  "THOIGIAN" : "2 ngày 1 đêm",
+  "NGAYDI" : "15/5/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Khách Sạn Hilton Hanoi Opera",
+      "DIACHI" : "01 Lê Thánh Tông, Hoàn Kiếm, Hà Nội",
+      "DIENTHOAI" : "024.7109.9999"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Quá",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986858",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "6/6/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Doãn Kiếm Bình",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "3/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Cô Long",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0977976757",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Quách Phù",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0976967656",
+      "DIACHI" : "Mông Cổ",
+      "NGAYSINH" : "8/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Lý Mạc Sầu",
+      "DIENTHOAI" : "0945678925",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181789"
+    }, {
+      "TENKH" : "Tiểu Ngư Nhi",
+      "DIENTHOAI" : "0945678926",
+      "DIACHI" : "Ngư Phủ",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181788"
+    }, {
+      "TENKH" : "Nguyễn Long Phong",
+      "DIENTHOAI" : "0945678927",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181787"
+    }, {
+      "TENKH" : "Lý Tiểu Long",
+      "DIENTHOAI" : "0945678928",
+      "DIACHI" : "Trung Quốc",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181786"
+    }, {
+      "TENKH" : "Quách Tỉnh",
+      "DIENTHOAI" : "0945678929",
+      "DIACHI" : "Mông Cổ",
+      "NGAYSINH" : "1/2/1978",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181785"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Lân",
+      "DIENTHOAI" : "0935678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1995",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181779"
+    }, {
+      "TENKH" : "Trần Hạ Vy",
+      "DIENTHOAI" : "0935678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1991",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2021181778"
+    }, {
+      "TENKH" : "Nguyễn Phong Phú",
+      "DIENTHOAI" : "0935678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1998",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181777"
+    }, {
+      "TENKH" : "Đặng Hoàng Cẩm My",
+      "DIENTHOAI" : "0945676816",
+      "DIACHI" : "Bình Tân",
+      "NGAYSINH" : "11/6/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181878"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Dũng",
+      "DIENTHOAI" : "0945676817",
+      "DIACHI" : "Tân Phú",
+      "NGAYSINH" : "1/6/2000",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181877"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912d7"),
+  "MATOUR" : "SG-DL",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Fresh Garden Đà Lạt"
+    }, {
+      "DIEMDEN" : "Lạc Tiên Giới"
+    }, {
+      "DIEMDEN" : "Thung lũng tình yêu"
+    }, {
+      "DIEMDEN" : "Cầu vàng Đà Lạt"
+    }, {
+      "DIEMDEN" : "Sunny Farm"
+    }, {
+      "DIEMDEN" : "Khu du lịch Langbiang"
+    }],
+  "GIA" : 12000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "20/10/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Arapang Hotel 2",
+      "DIACHI" : "19 Phan Như Thạch, Đà Lạt",
+      "DIENTHOAI" : "0263 3836 768"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Quá",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986858",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "6/6/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Doãn Kiếm Bình",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "3/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Cô Long",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0977976757",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Quách Phù",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0976967656",
+      "DIACHI" : "Mông Cổ",
+      "NGAYSINH" : "8/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Ngọc Long",
+      "DIENTHOAI" : "0945678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181779"
+    }, {
+      "TENKH" : "Trần Tiểu Hân",
+      "DIENTHOAI" : "0945678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181778"
+    }, {
+      "TENKH" : "Nguyễn Văn Phong",
+      "DIENTHOAI" : "0945678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181777"
+    }, {
+      "TENKH" : "Trần Cận Nam",
+      "DIENTHOAI" : "0945678918",
+      "DIACHI" : "Đài Loan",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181776"
+    }, {
+      "TENKH" : "Phạm Thảo Quyên",
+      "DIENTHOAI" : "0945678919",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181775"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Lân",
+      "DIENTHOAI" : "0935678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1995",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181779"
+    }, {
+      "TENKH" : "Trần Hạ Vy",
+      "DIENTHOAI" : "0935678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1991",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2021181778"
+    }, {
+      "TENKH" : "Nguyễn Phong Phú",
+      "DIENTHOAI" : "0935678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1998",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181777"
+    }, {
+      "TENKH" : "Trần Nhật Minh",
+      "DIENTHOAI" : "0935678918",
+      "DIACHI" : "Đài Loan",
+      "NGAYSINH" : "11/2/1989",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181776"
+    }, {
+      "TENKH" : "Trần Diễm Thy",
+      "DIENTHOAI" : "0935678919",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "9/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2021181775"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912d8"),
+  "MATOUR" : "SG-DL",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Fresh Garden Đà Lạt"
+    }, {
+      "DIEMDEN" : "Lạc Tiên Giới"
+    }, {
+      "DIEMDEN" : "Thung lũng tình yêu"
+    }, {
+      "DIEMDEN" : "Cầu vàng Đà Lạt"
+    }, {
+      "DIEMDEN" : "Sunny Farm"
+    }, {
+      "DIEMDEN" : "Khu du lịch Langbiang"
+    }],
+  "GIA" : 12000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "20/11/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 20.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Arapang Hotel 2",
+      "DIACHI" : "19 Phan Như Thạch, Đà Lạt",
+      "DIENTHOAI" : "0263 3836 768"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Quá",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986858",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "6/6/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Doãn Kiếm Bình",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "3/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Cô Long",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0977976757",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Quách Phù",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0976967656",
+      "DIACHI" : "Mông Cổ",
+      "NGAYSINH" : "8/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Lâm Phát",
+      "DIENTHOAI" : "0945678815",
+      "DIACHI" : "Quận 12",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181879"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Nhi",
+      "DIENTHOAI" : "0945678816",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181878"
+    }, {
+      "TENKH" : "Lý Minh Thiên",
+      "DIENTHOAI" : "0945678817",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181877"
+    }, {
+      "TENKH" : "Phan Tuấn Kiệt",
+      "DIENTHOAI" : "0945678818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181876"
+    }, {
+      "TENKH" : "Phạm Thị Vân Anh",
+      "DIENTHOAI" : "0945678819",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181875"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Long",
+      "DIENTHOAI" : "0945678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181779"
+    }, {
+      "TENKH" : "Trần Tiểu Hân",
+      "DIENTHOAI" : "0945678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181778"
+    }, {
+      "TENKH" : "Nguyễn Văn Phong",
+      "DIENTHOAI" : "0945678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181777"
+    }, {
+      "TENKH" : "Trần Cận Nam",
+      "DIENTHOAI" : "0945678918",
+      "DIACHI" : "Đài Loan",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181776"
+    }, {
+      "TENKH" : "Phạm Thảo Quyên",
+      "DIENTHOAI" : "0945678919",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181775"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912d9"),
+  "MATOUR" : "SG-NT",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Vinpearl Land"
+    }, {
+      "DIEMDEN" : "Đảo Hòn Mun"
+    }, {
+      "DIEMDEN" : "Hòn Tằm"
+    }, {
+      "DIEMDEN" : "Đảo Bình Ba"
+    }, {
+      "DIEMDEN" : "Đảo Điệp Sơn"
+    }, {
+      "DIEMDEN" : "Vịnh Nha Phu"
+    }],
+  "GIA" : 13000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "30/11/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Alpha Bird Nha Trang",
+      "DIACHI" : "19/37 Tuệ Tĩnh,Thành phố Nha Trang",
+      "DIENTHOAI" : "0258 6256 363"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Đình Hải",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986858",
+      "DIACHI" : "Bình Dương",
+      "NGAYSINH" : "20/12/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Phan Tấn Tài",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "13/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Nguyễn Tuyết Nhung",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0777976757",
+      "DIACHI" : "Củ Chi",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Nguyễn Thị Thảo",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0776967656",
+      "DIACHI" : "Tân Bình",
+      "NGAYSINH" : "18/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Ngọc Hải",
+      "DIENTHOAI" : "0945676815",
+      "DIACHI" : "Quận Gò Vấp",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181879"
+    }, {
+      "TENKH" : "Đặng Hoàng Cẩm My",
+      "DIENTHOAI" : "0945676816",
+      "DIACHI" : "Bình Tân",
+      "NGAYSINH" : "11/6/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181878"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Dũng",
+      "DIENTHOAI" : "0945676817",
+      "DIACHI" : "Tân Phú",
+      "NGAYSINH" : "1/6/2000",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181877"
+    }, {
+      "TENKH" : "Phan Tuấn Anh",
+      "DIENTHOAI" : "0945676818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181876"
+    }, {
+      "TENKH" : "Nguyễn Hồng Phúc",
+      "DIENTHOAI" : "0945676819",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "20/12/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181875"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Long",
+      "DIENTHOAI" : "0945678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181779"
+    }, {
+      "TENKH" : "Trần Tiểu Hân",
+      "DIENTHOAI" : "0945678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181778"
+    }, {
+      "TENKH" : "Nguyễn Văn Phong",
+      "DIENTHOAI" : "0945678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181777"
+    }, {
+      "TENKH" : "Trần Cận Nam",
+      "DIENTHOAI" : "0945678918",
+      "DIACHI" : "Đài Loan",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181776"
+    }, {
+      "TENKH" : "Phạm Thảo Quyên",
+      "DIENTHOAI" : "0945678919",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181775"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912da"),
+  "MATOUR" : "SG-HN",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Quảng trường Ba Đình – Lăng Bác"
+    }, {
+      "DIEMDEN" : "Hồ Gươm"
+    }, {
+      "DIEMDEN" : "Phố cổ Hà Nội"
+    }, {
+      "DIEMDEN" : "Văn Miếu – Quốc Tử Giám"
+    }, {
+      "DIEMDEN" : "Nhà thờ lớn Hà Nội"
+    }],
+  "GIA" : 10000000.0,
+  "THOIGIAN" : "2 ngày 1 đêm",
+  "NGAYDI" : "15/5/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Khách Sạn Hilton Hanoi Opera",
+      "DIACHI" : "01 Lê Thánh Tông, Hoàn Kiếm, Hà Nội",
+      "DIENTHOAI" : "024.7109.9999"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Đình Hải",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986858",
+      "DIACHI" : "Bình Dương",
+      "NGAYSINH" : "20/12/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Phan Tấn Tài",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "13/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Nguyễn Tuyết Nhung",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0777976757",
+      "DIACHI" : "Củ Chi",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Nguyễn Thị Thảo",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0776967656",
+      "DIACHI" : "Tân Bình",
+      "NGAYSINH" : "18/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Lâm Phát",
+      "DIENTHOAI" : "0945678815",
+      "DIACHI" : "Quận 12",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181879"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Nhi",
+      "DIENTHOAI" : "0945678816",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181878"
+    }, {
+      "TENKH" : "Lý Minh Thiên",
+      "DIENTHOAI" : "0945678817",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181877"
+    }, {
+      "TENKH" : "Phan Tuấn Kiệt",
+      "DIENTHOAI" : "0945678818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181876"
+    }, {
+      "TENKH" : "Phạm Thị Vân Anh",
+      "DIENTHOAI" : "0945678819",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181875"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Hải",
+      "DIENTHOAI" : "0945676815",
+      "DIACHI" : "Quận Gò Vấp",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181879"
+    }, {
+      "TENKH" : "Đặng Hoàng Cẩm My",
+      "DIENTHOAI" : "0945676816",
+      "DIACHI" : "Bình Tân",
+      "NGAYSINH" : "11/6/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181878"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Dũng",
+      "DIENTHOAI" : "0945676817",
+      "DIACHI" : "Tân Phú",
+      "NGAYSINH" : "1/6/2000",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181877"
+    }, {
+      "TENKH" : "Phan Tuấn Anh",
+      "DIENTHOAI" : "0945676818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181876"
+    }, {
+      "TENKH" : "Nguyễn Hồng Phúc",
+      "DIENTHOAI" : "0945676819",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "20/12/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181875"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912db"),
+  "MATOUR" : "SG-NT",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Vinpearl Land"
+    }, {
+      "DIEMDEN" : "Đảo Hòn Mun"
+    }, {
+      "DIEMDEN" : "Hòn Tằm"
+    }, {
+      "DIEMDEN" : "Đảo Bình Ba"
+    }, {
+      "DIEMDEN" : "Đảo Điệp Sơn"
+    }, {
+      "DIEMDEN" : "Vịnh Nha Phu"
+    }],
+  "GIA" : 13000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "30/11/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Alpha Bird Nha Trang",
+      "DIACHI" : "19/37 Tuệ Tĩnh,Thành phố Nha Trang",
+      "DIENTHOAI" : "0258 6256 363"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Quá",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986858",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "6/6/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Doãn Kiếm Bình",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "3/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Cô Long",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0977976757",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Quách Phù",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0976967656",
+      "DIACHI" : "Mông Cổ",
+      "NGAYSINH" : "8/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Ngọc Hải",
+      "DIENTHOAI" : "0945676815",
+      "DIACHI" : "Quận Gò Vấp",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181879"
+    }, {
+      "TENKH" : "Đặng Hoàng Cẩm My",
+      "DIENTHOAI" : "0945676816",
+      "DIACHI" : "Bình Tân",
+      "NGAYSINH" : "11/6/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181878"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Dũng",
+      "DIENTHOAI" : "0945676817",
+      "DIACHI" : "Tân Phú",
+      "NGAYSINH" : "1/6/2000",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181877"
+    }, {
+      "TENKH" : "Phan Tuấn Anh",
+      "DIENTHOAI" : "0945676818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181876"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Nhi",
+      "DIENTHOAI" : "0945678816",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181878"
+    }, {
+      "TENKH" : "Lý Minh Thiên",
+      "DIENTHOAI" : "0945678817",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181877"
+    }, {
+      "TENKH" : "Phan Tuấn Kiệt",
+      "DIENTHOAI" : "0945678818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181876"
+    }, {
+      "TENKH" : "Nguyễn Văn Phong",
+      "DIENTHOAI" : "0945678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181777"
+    }, {
+      "TENKH" : "Tiểu Ngư Nhi",
+      "DIENTHOAI" : "0945678926",
+      "DIACHI" : "Ngư Phủ",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181788"
+    }, {
+      "TENKH" : "Nguyễn Long Phong",
+      "DIENTHOAI" : "0945678927",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181787"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912dc"),
+  "MATOUR" : "SG-DN",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Cầu Vàng – Bà Nà Hills"
+    }, {
+      "DIEMDEN" : "Asia Park – Sunworld Đà Nẵng Wonders"
+    }, {
+      "DIEMDEN" : "Bảo tàng 3D TrickEye"
+    }, {
+      "DIEMDEN" : "Ngôi nhà úp ngược"
+    }, {
+      "DIEMDEN" : "Suối khoáng Thần Tài"
+    }, {
+      "DIEMDEN" : "Làng bích họa Tam Thanh"
+    }, {
+      "DIEMDEN" : "Phố Cổ Hội An"
+    }],
+  "GIA" : 15000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "15/6/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Sala Danang Beach Hotel",
+      "DIACHI" : "36-38 Đ. Lâm Hoành, Phước Mỹ, Sơn Trà, Đà Nẵng",
+      "DIENTHOAI" : "0236 3658 555"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Quá",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986858",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "6/6/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Doãn Kiếm Bình",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "3/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Cô Long",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0977976757",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Quách Phù",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0976967656",
+      "DIACHI" : "Mông Cổ",
+      "NGAYSINH" : "8/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Lý Mạc Sầu",
+      "DIENTHOAI" : "0945678925",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181789"
+    }, {
+      "TENKH" : "Tiểu Ngư Nhi",
+      "DIENTHOAI" : "0945678926",
+      "DIACHI" : "Ngư Phủ",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181788"
+    }, {
+      "TENKH" : "Trần Tiểu Hân",
+      "DIENTHOAI" : "0945678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181778"
+    }, {
+      "TENKH" : "Nguyễn Văn Lợi",
+      "DIENTHOAI" : "0645678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "2/1/1999",
+      "GIOITINH" : "Nam",
+      "CMND" : "2003181777"
+    }, {
+      "TENKH" : "Trần Cận Nam",
+      "DIENTHOAI" : "0945678918",
+      "DIACHI" : "Đài Loan",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181776"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Lân",
+      "DIENTHOAI" : "0935678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1995",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181779"
+    }, {
+      "TENKH" : "Trần Hạ Vy",
+      "DIENTHOAI" : "0935678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1991",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2021181778"
+    }, {
+      "TENKH" : "Nguyễn Phong Phú",
+      "DIENTHOAI" : "0935678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1998",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181777"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Thái",
+      "DIENTHOAI" : "0945669815",
+      "DIACHI" : "Quận Gò Vấp",
+      "NGAYSINH" : "6/8/1999",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002691879"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Dũng",
+      "DIENTHOAI" : "0945676817",
+      "DIACHI" : "Tân Phú",
+      "NGAYSINH" : "1/6/2000",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181877"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912dd"),
+  "MATOUR" : "SG-DL",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Fresh Garden Đà Lạt"
+    }, {
+      "DIEMDEN" : "Lạc Tiên Giới"
+    }, {
+      "DIEMDEN" : "Thung lũng tình yêu"
+    }, {
+      "DIEMDEN" : "Cầu vàng Đà Lạt"
+    }, {
+      "DIEMDEN" : "Sunny Farm"
+    }, {
+      "DIEMDEN" : "Khu du lịch Langbiang"
+    }],
+  "GIA" : 12000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "20/12/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Arapang Hotel 2",
+      "DIACHI" : "19 Phan Như Thạch, Đà Lạt",
+      "DIENTHOAI" : "0263 3836 768"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Đình Hải",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986858",
+      "DIACHI" : "Bình Dương",
+      "NGAYSINH" : "20/12/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Phan Tấn Tài",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "13/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Nguyễn Tuyết Nhung",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0777976757",
+      "DIACHI" : "Củ Chi",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Nguyễn Thị Thảo",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0776967656",
+      "DIACHI" : "Tân Bình",
+      "NGAYSINH" : "18/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Ngọc Long",
+      "DIENTHOAI" : "0945678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181779"
+    }, {
+      "TENKH" : "Trần Tiểu Hân",
+      "DIENTHOAI" : "0945678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181778"
+    }, {
+      "TENKH" : "Nguyễn Văn Phong",
+      "DIENTHOAI" : "0945678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181777"
+    }, {
+      "TENKH" : "Trần Đăng Khoa",
+      "DIENTHOAI" : "0945626815",
+      "DIACHI" : "Quận Tân Phú",
+      "NGAYSINH" : "1/1/1997",
+      "GIOITINH" : "Nam",
+      "CMND" : "2902181879"
+    }, {
+      "TENKH" : "Phạm Thảo Quyên",
+      "DIENTHOAI" : "0945678919",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181775"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Lân",
+      "DIENTHOAI" : "0935678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1995",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181779"
+    }, {
+      "TENKH" : "Trần Hạ Vy",
+      "DIENTHOAI" : "0935678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1991",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2021181778"
+    }, {
+      "TENKH" : "Nguyễn Văn Lợi",
+      "DIENTHOAI" : "0645678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "2/1/1999",
+      "GIOITINH" : "Nam",
+      "CMND" : "2003181777"
+    }, {
+      "TENKH" : "Trần Nhật Minh",
+      "DIENTHOAI" : "0935678918",
+      "DIACHI" : "Đài Loan",
+      "NGAYSINH" : "11/2/1989",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181776"
+    }, {
+      "TENKH" : "Trần Diễm Thy",
+      "DIENTHOAI" : "0935678919",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "9/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2021181775"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912de"),
+  "MATOUR" : "SG-DN",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Cầu Vàng – Bà Nà Hills"
+    }, {
+      "DIEMDEN" : "Asia Park – Sunworld Đà Nẵng Wonders"
+    }, {
+      "DIEMDEN" : "Bảo tàng 3D TrickEye"
+    }, {
+      "DIEMDEN" : "Ngôi nhà úp ngược"
+    }, {
+      "DIEMDEN" : "Suối khoáng Thần Tài"
+    }, {
+      "DIEMDEN" : "Làng bích họa Tam Thanh"
+    }, {
+      "DIEMDEN" : "Phố Cổ Hội An"
+    }],
+  "GIA" : 15000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "15/6/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Sala Danang Beach Hotel",
+      "DIACHI" : "36-38 Đ. Lâm Hoành, Phước Mỹ, Sơn Trà, Đà Nẵng",
+      "DIENTHOAI" : "0236 3658 555"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Quá",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986858",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "6/6/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Doãn Kiếm Bình",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "3/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Cô Long",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0977976757",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Quách Phù",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0976967656",
+      "DIACHI" : "Mông Cổ",
+      "NGAYSINH" : "8/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Lâm Phát",
+      "DIENTHOAI" : "0945678815",
+      "DIACHI" : "Quận 12",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181879"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Nhi",
+      "DIENTHOAI" : "0945678816",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181878"
+    }, {
+      "TENKH" : "Lý Minh Thiên",
+      "DIENTHOAI" : "0945678817",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181877"
+    }, {
+      "TENKH" : "Phan Tuấn Kiệt",
+      "DIENTHOAI" : "0945678818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181876"
+    }, {
+      "TENKH" : "Phạm Thị Vân Anh",
+      "DIENTHOAI" : "0945678819",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181875"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Long",
+      "DIENTHOAI" : "0945678915",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181779"
+    }, {
+      "TENKH" : "Trần Tiểu Hân",
+      "DIENTHOAI" : "0945678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181778"
+    }, {
+      "TENKH" : "Nguyễn Phong Phú",
+      "DIENTHOAI" : "0935678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1998",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181777"
+    }, {
+      "TENKH" : "Trần Nhật Minh",
+      "DIENTHOAI" : "0935678918",
+      "DIACHI" : "Đài Loan",
+      "NGAYSINH" : "11/2/1989",
+      "GIOITINH" : "Nam",
+      "CMND" : "2021181776"
+    }, {
+      "TENKH" : "Trần Diễm Thy",
+      "DIENTHOAI" : "0935678919",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "9/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2021181775"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912df"),
+  "MATOUR" : "SG-NT",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Vinpearl Land"
+    }, {
+      "DIEMDEN" : "Đảo Hòn Mun"
+    }, {
+      "DIEMDEN" : "Hòn Tằm"
+    }, {
+      "DIEMDEN" : "Đảo Bình Ba"
+    }, {
+      "DIEMDEN" : "Đảo Điệp Sơn"
+    }, {
+      "DIEMDEN" : "Vịnh Nha Phu"
+    }],
+  "GIA" : 13000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "10/11/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Alpha Bird Nha Trang",
+      "DIACHI" : "19/37 Tuệ Tĩnh,Thành phố Nha Trang",
+      "DIENTHOAI" : "0258 6256 363"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Đình Hải",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986858",
+      "DIACHI" : "Bình Dương",
+      "NGAYSINH" : "20/12/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Phan Tấn Tài",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "13/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Nguyễn Tuyết Nhung",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0777976757",
+      "DIACHI" : "Củ Chi",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Nguyễn Thị Thảo",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0776967656",
+      "DIACHI" : "Tân Bình",
+      "NGAYSINH" : "18/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Lý Mạc Sầu",
+      "DIENTHOAI" : "0945678925",
+      "DIACHI" : "Nga My",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181789"
+    }, {
+      "TENKH" : "Tiểu Ngư Nhi",
+      "DIENTHOAI" : "0945678926",
+      "DIACHI" : "Ngư Phủ",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181788"
+    }, {
+      "TENKH" : "Trần Thanh Phúc",
+      "DIENTHOAI" : "0845678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/8/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2501181778"
+    }, {
+      "TENKH" : "Phan Tuấn Anh",
+      "DIENTHOAI" : "0945676818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181876"
+    }, {
+      "TENKH" : "Nguyễn Hồng Phúc",
+      "DIENTHOAI" : "0945676819",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "20/12/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181875"
+    }, {
+      "TENKH" : "Trần Đăng Khoa",
+      "DIENTHOAI" : "0945626815",
+      "DIACHI" : "Quận Tân Phú",
+      "NGAYSINH" : "1/1/1997",
+      "GIOITINH" : "Nam",
+      "CMND" : "2902181879"
+    }, {
+      "TENKH" : "Trần Tiểu Hân",
+      "DIENTHOAI" : "0945678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181778"
+    }, {
+      "TENKH" : "Nguyễn Văn Phong",
+      "DIENTHOAI" : "0945678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181777"
+    }, {
+      "TENKH" : "Trần Cận Nam",
+      "DIENTHOAI" : "0945678918",
+      "DIACHI" : "Đài Loan",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181776"
+    }, {
+      "TENKH" : "Phạm Thảo Quyên",
+      "DIENTHOAI" : "0945678919",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181775"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912e0"),
+  "MATOUR" : "SG-HN",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Quảng trường Ba Đình – Lăng Bác"
+    }, {
+      "DIEMDEN" : "Hồ Gươm"
+    }, {
+      "DIEMDEN" : "Phố cổ Hà Nội"
+    }, {
+      "DIEMDEN" : "Văn Miếu – Quốc Tử Giám"
+    }, {
+      "DIEMDEN" : "Nhà thờ lớn Hà Nội"
+    }],
+  "GIA" : 10000000.0,
+  "THOIGIAN" : "2 ngày 1 đêm",
+  "NGAYDI" : "10/8/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Khách Sạn Hilton Hanoi Opera",
+      "DIACHI" : "01 Lê Thánh Tông, Hoàn Kiếm, Hà Nội",
+      "DIENTHOAI" : "024.7109.9999"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Đình Hải",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986858",
+      "DIACHI" : "Bình Dương",
+      "NGAYSINH" : "20/12/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Phan Tấn Tài",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0778986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "13/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Nguyễn Tuyết Nhung",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0777976757",
+      "DIACHI" : "Củ Chi",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Nguyễn Thị Thảo",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0776967656",
+      "DIACHI" : "Tân Bình",
+      "NGAYSINH" : "18/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Lâm Phát",
+      "DIENTHOAI" : "0945678815",
+      "DIACHI" : "Quận 12",
+      "NGAYSINH" : "13/6/1996",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181879"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Nhi",
+      "DIENTHOAI" : "0945678816",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181878"
+    }, {
+      "TENKH" : "Nguyễn Văn Lợi",
+      "DIENTHOAI" : "0645678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "2/1/1999",
+      "GIOITINH" : "Nam",
+      "CMND" : "2003181777"
+    }, {
+      "TENKH" : "Trần Thanh Phúc",
+      "DIENTHOAI" : "0845678916",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/8/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2501181778"
+    }, {
+      "TENKH" : "Phạm Thị Vân Anh",
+      "DIENTHOAI" : "0945678819",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "29/8/1999",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181875"
+    }, {
+      "TENKH" : "Trần Đăng Khoa",
+      "DIENTHOAI" : "0945626815",
+      "DIACHI" : "Quận Tân Phú",
+      "NGAYSINH" : "1/1/1997",
+      "GIOITINH" : "Nam",
+      "CMND" : "2902181879"
+    }, {
+      "TENKH" : "Đặng Hoàng Cẩm My",
+      "DIENTHOAI" : "0945676816",
+      "DIACHI" : "Bình Tân",
+      "NGAYSINH" : "11/6/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181878"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Dũng",
+      "DIENTHOAI" : "0945676817",
+      "DIACHI" : "Tân Phú",
+      "NGAYSINH" : "1/6/2000",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181877"
+    }, {
+      "TENKH" : "Phan Tuấn Anh",
+      "DIENTHOAI" : "0945676818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181876"
+    }, {
+      "TENKH" : "Nguyễn Hồng Phúc",
+      "DIENTHOAI" : "0945676819",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "20/12/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181875"
+    }]
+}
+{
+  "_id" : ObjectId("6073fc96631a6f736ef912e1"),
+  "MATOUR" : "SG-DN",
+  "DIADIEM" : [{
+      "DIEMDEN" : "Cầu Vàng – Bà Nà Hills"
+    }, {
+      "DIEMDEN" : "Asia Park – Sunworld Đà Nẵng Wonders"
+    }, {
+      "DIEMDEN" : "Bảo tàng 3D TrickEye"
+    }, {
+      "DIEMDEN" : "Ngôi nhà úp ngược"
+    }, {
+      "DIEMDEN" : "Suối khoáng Thần Tài"
+    }, {
+      "DIEMDEN" : "Làng bích họa Tam Thanh"
+    }, {
+      "DIEMDEN" : "Phố Cổ Hội An"
+    }],
+  "GIA" : 15000000.0,
+  "THOIGIAN" : "3 ngày 2 đêm",
+  "NGAYDI" : "15/6/2021",
+  "PHUONGTIEN" : [{
+      "TENPT" : "Xe khách",
+      "SUCCHUA" : 30.0
+    }],
+  "KHACHSAN" : [{
+      "TENKS" : "Sala Danang Beach Hotel",
+      "DIACHI" : "36-38 Đ. Lâm Hoành, Phước Mỹ, Sơn Trà, Đà Nẵng",
+      "DIENTHOAI" : "0236 3658 555"
+    }],
+  "NHANVIEN" : [{
+      "TENNV" : "Dương Quá",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986858",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "6/6/1986",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Doãn Kiếm Bình",
+      "CHUCVU" : "Tài xế",
+      "DIENTHOAI" : "0878986857",
+      "DIACHI" : "Võ Đang",
+      "NGAYSINH" : "3/12/1979",
+      "GIOITINH" : "Nam"
+    }, {
+      "TENNV" : "Cô Long",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0977976757",
+      "DIACHI" : "Cổ Mộ",
+      "NGAYSINH" : "16/7/1988",
+      "GIOITINH" : "Nữ"
+    }, {
+      "TENNV" : "Quách Phù",
+      "CHUCVU" : "Hướng dẫn viên",
+      "DIENTHOAI" : "0976967656",
+      "DIACHI" : "Mông Cổ",
+      "NGAYSINH" : "8/3/1996",
+      "GIOITINH" : "Nữ"
+    }],
+  "KHACHHANG" : [{
+      "TENKH" : "Nguyễn Ngọc Thái",
+      "DIENTHOAI" : "0945669815",
+      "DIACHI" : "Quận Gò Vấp",
+      "NGAYSINH" : "6/8/1999",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002691879"
+    }, {
+      "TENKH" : "Đặng Hoàng Cẩm My",
+      "DIENTHOAI" : "0945676816",
+      "DIACHI" : "Bình Tân",
+      "NGAYSINH" : "11/6/2000",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2002181878"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Dũng",
+      "DIENTHOAI" : "0945676817",
+      "DIACHI" : "Tân Phú",
+      "NGAYSINH" : "1/6/2000",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181877"
+    }, {
+      "TENKH" : "Phan Tuấn Anh",
+      "DIENTHOAI" : "0945676818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2002181876"
+    }, {
+      "TENKH" : "Nguyễn Ngọc Nhi",
+      "DIENTHOAI" : "0945678816",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181878"
+    }, {
+      "TENKH" : "Lý Minh Thiên",
+      "DIENTHOAI" : "0945678817",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181877"
+    }, {
+      "TENKH" : "Phan Tuấn Kiệt",
+      "DIENTHOAI" : "0945678818",
+      "DIACHI" : "Quận 1",
+      "NGAYSINH" : "11/7/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181876"
+    }, {
+      "TENKH" : "Nguyễn Văn Phong",
+      "DIENTHOAI" : "0945678917",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181777"
+    }, {
+      "TENKH" : "Tiểu Ngư Nhi",
+      "DIENTHOAI" : "0945678926",
+      "DIACHI" : "Ngư Phủ",
+      "NGAYSINH" : "14/6/1990",
+      "GIOITINH" : "Nữ",
+      "CMND" : "2001181788"
+    }, {
+      "TENKH" : "Nguyễn Long Phong",
+      "DIENTHOAI" : "0945678927",
+      "DIACHI" : "Hồ Chí Minh",
+      "NGAYSINH" : "1/6/1988",
+      "GIOITINH" : "Nam",
+      "CMND" : "2001181787"
+    }]
+}
